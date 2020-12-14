@@ -3,4 +3,4 @@ import FirebaseContext from '../firebase/context';
 
 export { FirebaseContext }
 
-export default FirebaseContext;
+export default firebase;
