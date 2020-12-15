@@ -5,7 +5,6 @@ import Layout from '../components/layout/Layout';
 import { Formulario, Campo, InputSubmit, Error } from '../components/ui/Formulario';
 
 import firebase from '../firebase';
-// import { auth } from '../firebase/firebase-1';
 
 // validaciones
 import UseValidation from '../hooks/UseValidation';
